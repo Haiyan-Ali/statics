@@ -1,0 +1,47 @@
+body {
+    background-color: #0f0d14;
+  }
+
+  .btn-dark {
+    background-color: black;
+  }
+
+  .btn-dark:hover {
+    border-color: #1d1e22;
+    background-color: #1d1e22;
+  }
+
+  #table_spiner {
+    text-align: center;
+  }
+
+  .color_white {
+    color: white;
+  }
+
+  .bg_black {
+    background-color: #161313;
+  }
+
+  #d_pas_use {
+    cursor: pointer;
+  }
+  .cur_pointer{
+    cursor: pointer;
+  }
+  #log_out{
+    margin-right:40px;
+    color: #f8f9fa;
+    transition: all ease 0.3s;
+  }
+  #log_out:hover{
+    color: #c8c8c9;
+  }
+  #model_close_btn{
+    background:none;
+    border: none;
+    color: white;
+  }
+  #model_close_btn:hover{
+    color: rgb(196, 196, 196);
+  }
